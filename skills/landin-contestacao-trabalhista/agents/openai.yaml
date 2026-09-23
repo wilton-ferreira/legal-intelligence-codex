@@ -1,0 +1,4 @@
+interface:
+  display_name: "Landin · Contestação trabalhista"
+  short_description: "Construa defesa trabalhista e examine provas adversas"
+  default_prompt: "Use $landin-contestacao-trabalhista para analisar [DOCUMENTOS] e preparar a contestação em favor de [PARTE]."

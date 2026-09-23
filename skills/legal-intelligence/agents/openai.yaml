@@ -1,0 +1,4 @@
+interface:
+  display_name: "Legal Intelligence · Brasil"
+  short_description: "Escolha a entrega jurídica para o seu caso"
+  default_prompt: "Use $legal-intelligence para me orientar na análise jurídica deste caso."

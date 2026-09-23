@@ -1,0 +1,4 @@
+interface:
+  display_name: "Revisão de contrato brasileiro"
+  short_description: "Cláusulas, riscos e alternativas de negociação"
+  default_prompt: "Use $revisar-contrato para analisar este contrato e propor ajustes."

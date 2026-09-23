@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pesquisa jurídica brasileira"
+  short_description: "Leis, decisões e teses com fontes brasileiras"
+  default_prompt: "Use $pesquisar-direito-brasileiro para pesquisar esta questão com fontes oficiais."

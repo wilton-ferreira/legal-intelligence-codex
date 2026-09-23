@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Legal Intelligence Brasil">
+  <rect width="256" height="256" rx="52" fill="#12372F"/>
+  <g fill="none" stroke="#E4BD73" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 49v149M75 204h106M66 82h124M73 86l-27 60h54L73 86m110 0-27 60h54l-27-60"/>
+    <path d="M46 150c8 26 46 26 54 0m56 0c8 26 46 26 54 0"/>
+  </g>
+  <circle cx="128" cy="62" r="12" fill="#E4BD73"/>
+</svg>

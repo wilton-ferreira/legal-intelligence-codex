@@ -1,0 +1,20 @@
+{
+  "name": "legal-intelligence-brasil",
+  "interface": {
+    "displayName": "Legal Intelligence Brasil"
+  },
+  "plugins": [
+    {
+      "name": "legal-intelligence-codex",
+      "source": {
+        "source": "local",
+        "path": "./plugins/legal-intelligence-codex"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

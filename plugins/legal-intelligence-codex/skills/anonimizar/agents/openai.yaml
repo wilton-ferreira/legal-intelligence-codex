@@ -1,0 +1,4 @@
+interface:
+  display_name: "Preparar documento para compartilhar"
+  short_description: "Reduza identificadores em cópias dos documentos"
+  default_prompt: "Use $anonimizar para preparar uma cópia deste documento para compartilhamento."

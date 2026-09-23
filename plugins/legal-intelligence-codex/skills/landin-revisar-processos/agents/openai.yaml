@@ -1,0 +1,4 @@
+interface:
+  display_name: "Landin · Revisar processos"
+  short_description: "Revise diretórios e entregue minutas corrigidas"
+  default_prompt: "Use $landin-revisar-processos para revisar os processos em [DIRETÓRIO] e gerar relatórios e versões revisadas sem alterar os originais."

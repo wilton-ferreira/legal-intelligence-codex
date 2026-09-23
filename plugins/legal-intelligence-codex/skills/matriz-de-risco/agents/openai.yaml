@@ -1,0 +1,4 @@
+interface:
+  display_name: "Matriz de risco jurídico"
+  short_description: "Priorize riscos com critérios e evidências"
+  default_prompt: "Use $matriz-de-risco para comparar os riscos deste caso."

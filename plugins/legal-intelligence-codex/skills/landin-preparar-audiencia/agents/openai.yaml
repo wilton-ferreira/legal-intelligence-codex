@@ -1,0 +1,4 @@
+interface:
+  display_name: "Landin · Preparar audiência"
+  short_description: "Prepare perguntas e cenários vinculados às provas"
+  default_prompt: "Use $landin-preparar-audiencia para preparar objetivos probatórios e perguntas com base em [DOCUMENTOS] para [AUDIÊNCIA]."

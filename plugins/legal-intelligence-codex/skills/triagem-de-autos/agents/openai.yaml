@@ -1,0 +1,4 @@
+interface:
+  display_name: "Triagem de autos"
+  short_description: "Entenda peças, eventos, provas e lacunas dos autos"
+  default_prompt: "Use $triagem-de-autos para organizar estes autos e destacar as peças decisivas."

@@ -1,0 +1,35 @@
+{
+  "name": "legal-intelligence-codex",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "start": "node mcp/server.bundle.mjs",
+    "check": "tsc --noEmit && node scripts/check-plugin.mjs",
+    "test": "node scripts/test.mjs",
+    "smoke": "node --import tsx scripts/smoke.ts",
+    "package": "npm run build && npm run check && node scripts/package-plugin.mjs && node scripts/validate-package.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.30.1",
+    "fast-xml-parser": "5.11.1",
+    "ipaddr.js": "2.5.0",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "esbuild": "0.28.2",
+    "fflate": "0.8.3",
+    "tsx": "4.23.15",
+    "typescript": "7.0.2"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wilton-ferreira/legal-intelligence-codex.git"
+  }
+}

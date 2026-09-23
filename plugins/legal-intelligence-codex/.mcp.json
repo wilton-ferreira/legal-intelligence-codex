@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "legal-br": {
+      "command": "node",
+      "args": ["./mcp/server.bundle.mjs"],
+      "cwd": ".",
+      "env_vars": ["DATAJUD_API_KEY"]
+    }
+  }
+}

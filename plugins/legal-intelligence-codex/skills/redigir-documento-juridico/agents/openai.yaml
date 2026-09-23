@@ -1,0 +1,4 @@
+interface:
+  display_name: "Redação jurídica brasileira"
+  short_description: "Minutas claras com fatos e fundamentos conferidos"
+  default_prompt: "Use $redigir-documento-juridico para preparar uma minuta com os documentos fornecidos."

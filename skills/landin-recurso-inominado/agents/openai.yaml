@@ -1,0 +1,4 @@
+interface:
+  display_name: "Landin · Recurso inominado"
+  short_description: "Confronte a sentença e prepare argumentos recursais"
+  default_prompt: "Use $landin-recurso-inominado para analisar a sentença e preparar uma minuta rastreável com base em [DOCUMENTOS]."

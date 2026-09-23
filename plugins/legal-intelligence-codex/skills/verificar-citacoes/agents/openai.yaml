@@ -1,0 +1,4 @@
+interface:
+  display_name: "Verificação de citações"
+  short_description: "Confira existência, teor e alcance das citações"
+  default_prompt: "Use $verificar-citacoes para conferir as referências deste documento."

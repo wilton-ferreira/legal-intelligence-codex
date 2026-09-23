@@ -1,0 +1,4 @@
+interface:
+  display_name: "Integridade informacional da peça"
+  short_description: "Achados por asserção e cobertura do exame"
+  default_prompt: "Use $auditar-peca para examinar a integridade informacional deste documento."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Publicações no DJEN"
+  short_description: "Consulte publicações e certidões públicas do DJEN"
+  default_prompt: "Use $consultar-comunicacoes para buscar publicações deste processo no DJEN."

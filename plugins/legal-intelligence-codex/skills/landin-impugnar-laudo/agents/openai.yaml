@@ -1,0 +1,4 @@
+interface:
+  display_name: "Landin · Impugnar laudo"
+  short_description: "Confronte laudos e elabore quesitos e impugnação"
+  default_prompt: "Use $landin-impugnar-laudo para confrontar [LAUDO] com [DOCUMENTOS] e elaborar quesitos e minuta de impugnação."

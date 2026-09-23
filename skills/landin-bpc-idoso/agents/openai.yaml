@@ -1,0 +1,4 @@
+interface:
+  display_name: "Landin · BPC para pessoa idosa"
+  short_description: "Analise provas, renda e requisitos do BPC à pessoa idosa"
+  default_prompt: "Use $landin-bpc-idoso para analisar os documentos de [CASO] e preparar uma minuta de inicial com requisitos e fontes verificados."

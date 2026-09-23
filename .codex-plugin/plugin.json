@@ -1,0 +1,35 @@
+{
+  "name": "legal-intelligence-codex",
+  "version": "0.1.0",
+  "description": "Direito brasileiro no Codex: pesquisa oficial, análise documental e rituais do Escritório Landin.",
+  "author": {
+    "name": "Wilton Ferreira"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Legal Intelligence Codex",
+    "shortDescription": "Direito brasileiro e fluxos Landin no Codex.",
+    "longDescription": "Habilidades em português para iniciar e revisar processos, examinar provas e citações e produzir minutas. MCP local com fontes oficiais brasileiras, proveniência e limites de verificação explícitos.",
+    "developerName": "Wilton Ferreira",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Inicie a análise de um processo na pasta indicada.",
+      "Revise os processos desta pasta e produza versões melhoradas.",
+      "Pesquise fontes oficiais brasileiras para esta questão."
+    ],
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/icon.svg",
+    "brandColor": "#12372F"
+  },
+  "mcpServers": "./.mcp.json",
+  "keywords": [
+    "direito-brasileiro",
+    "jurisprudencia",
+    "legislacao",
+    "landin",
+    "mcp"
+  ],
+  "repository": "https://github.com/wilton-ferreira/legal-intelligence-codex",
+  "license": "MIT"
+}

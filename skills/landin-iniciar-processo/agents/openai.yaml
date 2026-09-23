@@ -1,0 +1,4 @@
+interface:
+  display_name: "Landin · Iniciar processo"
+  short_description: "Organize o caso e produza análise documental inicial"
+  default_prompt: "Use $landin-iniciar-processo para iniciar a análise do processo em [DIRETÓRIO], organizando fatos, provas e fontes."
